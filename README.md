@@ -5,14 +5,14 @@ Credit Risk Prediction Using Machine Learning
 
 # Project Structure
 
--> Project_CreditRiskPrediction.ipynb           # Jupyter Notebook with code and outputs
--> classification_report.md                     # Classification metrics for all models
--> Credit Risk Prediction.csv                   # Dataset used for training and testing
--> dataset-file.md                              #Dataset information
--> Credit Risk Prediction - Summary Report.md   # Summary of project steps and challenges
--> Credit Risk Prediction - PDF Report.pdf      # Detailed business problem and insights
--> requirements.txt                             # requirements & dependencies 
--> README.md                                    # This is the file.
+- Project_CreditRiskPrediction.ipynb           # Jupyter Notebook with code and outputs
+- classification_report.md                     # Classification metrics for all models
+- Credit Risk Prediction.csv                   # Dataset used for training and testing
+- dataset-file.md                              #Dataset information
+- Credit Risk Prediction - Summary Report.md   # Summary of project steps and challenges
+- Credit Risk Prediction - PDF Report.pdf      # Detailed business problem and insights
+- requirements.txt                             # requirements & dependencies 
+- README.md                                    # This is the file.
 
 # How to Run the Notebook
 
